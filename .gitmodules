@@ -1,3 +1,6 @@
 [submodule "themes/hermit"]
 	path = themes/hermit
 	url = https://github.com/Track3/hermit.git
+[submodule "themes/hugo-html5up-alpha"]
+	path = themes/hugo-html5up-alpha
+	url = https://github.com/dewittn/hugo-html5up-alpha.git

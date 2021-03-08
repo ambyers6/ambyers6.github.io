@@ -1,35 +1,6 @@
-####### This is an EXAMPLE config file!!
-####### Changes made here will not effect demo site
-
-languageCode = "en-us"
-title = "Alpha by HTML5 UP"
-baseURL = "https://example.com"
-theme = "hugo-html5up-alpha"
-disqusShortname = ""
-
-[params]
-  description = "Another fine responsive site template freebie by HTML5 UP."
-  images = ["images/pic01.jpg"]
-  author = "Hugo Port: [Nelson/Roberto](https://nelsonroberto.com/)"
-  copyright = "© Untitled. All rights reserved."
-  design = "Design: [HTML5 UP](http://html5up.net/)"
-  mainSections = ["blog"]
-
-### Footer Social Media Links ###
-[[params.share]]
-title = "facebook"
-icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
-link = "https://www.facebook.com/"
-
-[[params.share]]
-title = "twitter"
-icon = "fa-twitter"
-link = "https://twitter.com/"
-
-[[params.share]]
-title = "linkedin"
-icon = "fa-linkedin"
-link = "https://www.linkedin.com"
+# Settings not listed here are inherited from `_default/config.toml`
+## This is a more extensive example of the themes capabilities that pulls from the local `exampleSite`
+## Run `hugo server` to load this demo
 
 ### For Pages the .RelPermalink must match the menu .URL
 ### For sections the name/directory must match the menu .Identifier
